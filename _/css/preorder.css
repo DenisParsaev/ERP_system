@@ -1,0 +1,15 @@
+.formRight {
+    float: right;
+    width: 756px;
+    margin: 12px 0;
+    display: block;
+    position: relative;
+}
+
+.content {
+    width: 100%;
+}
+
+#result_prepay {
+    margin-left: -15px;
+}
